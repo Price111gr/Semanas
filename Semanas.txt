@@ -75,7 +75,6 @@
 |discretas.                   |
 |4 a 5PM: Salir devuelta a    |
 |casa.                        |
-|Discretas.                   |
 |6:30/7 a 8PM: Repasar Info 2.|
 |8 a 12PM: Tiempo libre.      |
 |12:15PM: Hora de dormir.     |
