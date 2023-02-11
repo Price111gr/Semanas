@@ -1,21 +1,80 @@
-|||||| CRONOGRAMA ||||||
-------------------------
-
-*Semana 1:
-
--Lunes 13:
-
-
--Martes 14:
-
-
--Miercoles 15:
-
-
--jueves 16:
-
-
--viernes 17:
-
-
--------------------------
+|-----------------------------|
+||||||    CRONOGRAMA     ||||||
+|-----------------------------|
+|          SEMANA 1           |
+|-----------------------------|
+|  Lunes 13                   |
+|-----------------------------|
+|9:30 a 10:30AM: Despertar,   |
+|bañarme, organizar cama,     |
+|desayunar, lavar platos.     |
+|10:30AM: Salir hacia la UdeA.|
+|12 a 3PM: Clase Lab. info 2. |
+|3 a 4PM: Salir devuelta a    |
+|casa.                        |
+|5 a 10PM: Repasar calculo    |
+|vectorial e info 2.          |
+|10 a 11PM: Tiempo libre.     |
+|11:15PM: Hora de dormir.     |
+|-----------------------------|
+|  Martes 14                  |
+|-----------------------------|
+|6:30 a 7:30AM : Despertar,   |
+|bañarme, desayunar.          |
+|8 a 10AM: Clase info 2.      |
+|10 a 11:30AM: Lavar platos,  |
+|organizar cama.              |
+|12 a 2PM: clase calculo      |
+|vectorial.                   |
+|3PM: Salir a comprar PSU y   |
+|SSD nuevos.                  |
+|7PM: Volver a casa.          |
+|8:30 a 10PM: Repasar Info 2. |
+|10 a 11PM: Tiempo libre.     |
+|11:15PM: Hora de dormir.     |
+|-----------------------------|
+|  Miercoles 15               |
+|-----------------------------|
+|9 a 10AM: Despertar, bañarme,| 
+|organizar cama, desayunar,   |
+|lavar platos.                |
+|10:30AM: Salir hacia la UdeA.|
+|12 a 2PM: Clase Ingles 4.    |
+|2 a 4PM: Clase Matematicas   |
+|discretas.                   |
+|4 a 5PM: Salir devuelta a    |
+|casa.                        |
+|6:30/7 a 10PM: Repasar Info 2|
+|y calculo vectorial.         |
+|10 a 11PM: Tiempo libre.     |
+|11:15PM: Hora de dormir.     |
+|-----------------------------|
+|  Jueves 16                  |
+|-----------------------------|
+|6:30 a 7:30AM : Despertar,   |
+|bañarme, desayunar.          |
+|8 a 10AM: Clase info 2.      |
+|10AM a 11:30PM: Lavar platos,|
+|organizar cama.              |
+|12 a 2PM: Clase calculo      |
+|vectorial.                   |
+|2 a 5PM: Tiempo libre.       |
+|5 a 7PM: Clase vivamos la U. |
+|7 a 10PM: Repasar Info 2.    |
+|11PM: Hora de dormir.        |
+|-----------------------------|
+|  Viernes 17                 |
+|-----------------------------|
+|9 a 10AM: Despertar, bañarme,| 
+|organizar cama, desayunar,   |
+|lavar platos.                |
+|10:30AM: Salir hacia la UdeA.|
+|12 a 2PM: Clase Ingles 4.    |
+|2 a 4PM: Clase Matematicas   |
+|discretas.                   |
+|4 a 5PM: Salir devuelta a    |
+|casa.                        |
+|6:30/7 a 8PM: Repasar Info 2.|
+|8 a 12:30PM: Tiempo libre.   |
+|12:30PM: Hora de dormir.     |
+|-----------------------------|
