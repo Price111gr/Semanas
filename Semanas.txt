@@ -44,7 +44,6 @@
 |discretas.                   |
 |4 a 5PM: Salir devuelta a    |
 |casa.                        |
-|Discretas.                   |
 |6:30/7 a 10PM: Repasar       |
 |Info 2 y calculo vectorial   |
 |10 a 11PM: Tiempo libre.     |
