@@ -26,7 +26,7 @@
 |organizar cama.              |
 |12 a 2PM: clase calculo      |
 |vectorial.                   |
-|3PM: Salir a comprar PSU y   |
+|3PM: Salir a comprar PSU y   | 
 |SSD nuevos.                  |
 |7PM: Volver a casa.          |
 |8:30 a 10PM: Repasar Info 2. |
