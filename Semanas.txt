@@ -5,9 +5,10 @@
 |-----------------------------|
 |  Lunes 13                   |
 |-----------------------------|
-|9:30 a 10:30AM: Despertar,   |
+|6:30 a 7:30AM: Despertar,    |
 |bañarme, organizar cama,     |
 |desayunar, lavar platos.     |
+|8 a 10AM: Cita medica.       |
 |10:30AM: Salir hacia la UdeA.|
 |12 a 3PM: Clase Lab. info 2. |
 |3 a 4PM: Salir devuelta a    |
@@ -26,11 +27,11 @@
 |organizar cama.              |
 |12 a 2PM: clase calculo      |
 |vectorial.                   |
-|3PM: Salir a comprar PSU y   | 
-|SSD nuevos.                  |
-|7PM: Volver a casa.          |
-|8:30 a 10PM: Repasar Info 2. |
-|10 a 11PM: Tiempo libre.     |
+|2 a 3PM: Tiempo libre.       |
+|3 a 5PM: Repasar matematicas |
+|Discretas.                   |
+|5 a 9PM: Repasar Info 2.     |
+|9 a 11PM: Tiempo libre.      |
 |11:15PM: Hora de dormir.     |
 |-----------------------------|
 |  Miercoles 15               |
@@ -44,9 +45,9 @@
 |discretas.                   |
 |4 a 5PM: Salir devuelta a    |
 |casa.                        |
-|6:30/7 a 10PM: Repasar Info 2|
+|6:30/7 a 9PM: Repasar Info 2 |
 |y calculo vectorial.         |
-|10 a 11PM: Tiempo libre.     |
+|9 a 11PM: Tiempo libre.      |
 |11:15PM: Hora de dormir.     |
 |-----------------------------|
 |  Jueves 16                  |
@@ -60,32 +61,28 @@
 |vectorial.                   |
 |2 a 5PM: Tiempo libre.       |
 |5 a 7PM: Clase vivamos la U. |
-|7 a 10PM: Repasar Info 2.    |
-|11PM: Hora de dormir.        |
+|7 a 8PM: Repasar Info 2.     |
+|9:45PM: Hora de dormir.      |
 |-----------------------------|
 |  Viernes 17                 |
 |-----------------------------|
 |9 a 10AM: Despertar, bañarme,| 
-|organizar cama, desayunar,   |
-|lavar platos.                |
-|10:30AM: Salir hacia la UdeA.|
-|12 a 2PM: Clase Ingles 4.    |
-|2 a 4PM: Clase Matematicas   |
-|discretas.                   |
-|4 a 5PM: Salir devuelta a    |
-|casa.                        |
-|6:30/7 a 8PM: Repasar Info 2.|
-|8 a 12:30PM: Tiempo libre.   |
-|12:30PM: Hora de dormir.     |
+|desayunar.                   |
+|10:30AM: Cita medica.        |
+|12 a 2PM: Clase Ingles 4.    |                        
+|7 a 8PM: Tomar notas de      |
+|Matematicas discretas.       |
+|8 a 10PM: Tiempo libre.      |
+|10PM: Hora de dormir.        |
 |-----------------------------|
 |  Sábado 18                  |
 |-----------------------------|
-|9 a 10AM: Despertar, bañarme,| 
-|organizar cama, desayunar,   |
-|lavar platos.                |
-|10AM a 12PM: Tiempo libre.   |
+|9 a 12AM: Despertar, lavar el|
+|baño, bañarme, organizar cama|
+|, desayunar,lavar platos.    |
 |12 a 2PM: Clase Ingles.      |
-|2 a 9PM: tiempo libre.       |
-|9PM: Ir al trabajo hasta las |
-|3 o 4 AM del domingo.        |
+|2 a 8PM: Repasar clases.     |
+|8 a 10PM: Tiempo libre.      |
+|10:30PM: Hora de dormir.     |
 |-----------------------------|
+
