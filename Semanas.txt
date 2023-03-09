@@ -1,9 +1,9 @@
 |-----------------------------|
 ||||||    CRONOGRAMA     ||||||
 |-----------------------------|
-|         -SEMANA 4-          |
+|         -SEMANA 5-          |
 |-----------------------------|
-|  Lunes 6                    |
+|  Lunes 12                   |
 |-----------------------------|
 |9 a 10AM: Despertar, bañarme,| 
 |organizar cama, desayunar,   |
@@ -17,7 +17,7 @@
 |9 a 11PM: Tiempo libre.      |
 |11:15PM: Hora de dormir.     |
 |-----------------------------|
-|  Martes 7                   |
+|  Martes 13                  |
 |-----------------------------|
 |6:30 a 7:30AM : Despertar,   |
 |bañarme, desayunar.          |
@@ -29,19 +29,19 @@
 |2 a 3PM: Tiempo libre.       |
 |3 a 7PM: Repasar matematicas |
 |Discretas.                   |
-|7 a 9PM: Repasar Info 2.     |
-|9 a 11PM: Tiempo libre.      |
+|7 a 8PM: Tiempo libre.       |
+|8 a 11PM: Repasar matematicas|
+|discretas.                   |
 |11:15PM: Hora de dormir.     |
 |-----------------------------|
-|  Miercoles 8                |
+|  Miercoles 14               |
 |-----------------------------|
 |9 a 10AM: Despertar, bañarme,| 
 |organizar cama, desayunar,   |
 |lavar platos.                |
 |10:30AM: Salir hacia la UdeA.|
 |12 a 2PM: Clase Ingles 4.    |
-|2 a 4PM: Clase Matematicas   |
-|discretas.                   |
+|2 a 4PM: Parcial 1 Discretas.|
 |4 a 5PM: Salir devuelta a    |
 |casa.                        |
 |Discretas.                   |
@@ -49,7 +49,7 @@
 |9 a 11PM: Tiempo libre.      |
 |11:15PM: Hora de dormir.     |
 |-----------------------------|
-|  Jueves 9                   |
+|  Jueves 15                  |
 |-----------------------------|
 |6:30 a 7:30AM : Despertar,   |
 |bañarme, desayunar.          |
@@ -63,7 +63,7 @@
 |7 a 10PM: Repasar Info 2.    |
 |11PM: Hora de dormir.        |
 |-----------------------------|
-|  Viernes 10                 |
+|  Viernes 16                 |
 |-----------------------------|
 |9 a 10AM: Despertar, bañarme,| 
 |organizar cama, desayunar,   |
@@ -79,15 +79,15 @@
 |8 a 12PM: Tiempo libre.      |
 |12:15PM: Hora de dormir.     |
 |-----------------------------|
-|  Sábado 11                  |
+|  Sábado 17                  |
 |-----------------------------|
 |9 a 10AM: Despertar, bañarme,| 
 |organizar cama, desayunar,   |
 |lavar platos.                |
 |10AM a 12PM: Tiempo libre.   |
 |12 a 2PM: Clase Ingles.      |
-|2 a 9PM: tiempo libre.       |
-|9PM: Ir al trabajo hasta las |
-|3 o 4 AM del domingo.        |
+|2 a 5PM: Repasar calculo     | 
+|vectorial.                   |
+|5PM a 12AM: Tiempo libre.    |
 |-----------------------------|
 
